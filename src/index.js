@@ -1,6 +1,6 @@
 import {sum} from './math';
 
-const total = sum(3,5);
+const total = sum(3,9);
 
 console.log(total);
 
